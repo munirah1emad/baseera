@@ -129,7 +129,7 @@ baseera/
 
 Computer & Communication Analyst | Data Analyst | AI Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/munirah-emad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/munirahemad/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/munirah1emad)
 
 ---
